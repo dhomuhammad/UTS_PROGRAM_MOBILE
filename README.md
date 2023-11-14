@@ -1,3 +1,5 @@
+
+
 # mobile_uts
 
 Nama : Ridha Muhammad Rifqi
@@ -285,6 +287,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## Hasil Run 
 
+
+
+https://github.com/dhomuhammad/UTS_PROGRAM_MOBILE/assets/130027527/5ec48132-4b9b-4271-8efd-210014165cc5
 
 
 
